@@ -1,0 +1,23 @@
+.bgFooter {
+  width: 100%;
+  height: 67px;
+  background-color: #0B24FB;
+  margin-top: 200px;
+}
+
+.container {
+  height: 67px;
+}
+
+.yearText {
+  margin: auto 0;
+  font-weight: 400;
+}
+
+.versionText {
+  margin: auto 0;
+  font-weight: 100;
+  border: 1px solid white;
+  border-radius: 20px;
+  padding: 5px 15px;
+}
